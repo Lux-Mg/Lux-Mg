@@ -6,10 +6,9 @@ Final year Software Engineering student at Siberian Federal University. I build 
 
 Originally from Peru, living in Russia for the past few years — most of what I build ends up being bilingual (Spanish, Russian, sometimes English).
 
-- 🔭 Currently working on **[LenguaTrends](https://github.com/Lux-Mg/LenguaTrends)** — a multilingual comment trend analysis system using NLP (my thesis)
-- 💼 Recently shipped my first paid freelance project to production
-- 🧪 Exploring AI-assisted dev workflows, edge computing, and what makes a frontend feel human
-- 🎮 Outside tech: videogames, music, and Latin dance
+Currently working on **[LenguaTrends](https://github.com/Lux-Mg/LenguaTrends)** — a multilingual comment trend analysis system using NLP (my thesis). Recently shipped my first paid freelance project to production, and now I'm actively looking for more.
+
+Outside tech: videogames, music, and Latin dance.
 
 ---
 
@@ -25,8 +24,8 @@ Live template preview: [cafe-krepkiy.vercel.app](https://cafe-krepkiy.vercel.app
 
 **Reach me:**
 
-- 📫 Email: [luismendoza20g@gmail.com](mailto:luismendoza20g@gmail.com)
-- 💬 Telegram: [@Luismzg](https://t.me/Luismzg)
+- Email: [luismendoza20g@gmail.com](mailto:luismendoza20g@gmail.com)
+- Telegram: [@Luismzg](https://t.me/Luismzg)
 
 ---
 
