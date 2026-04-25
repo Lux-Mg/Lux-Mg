@@ -17,12 +17,7 @@ This is me, Luis Mendoza, a final year Software Engineering student at Siberian 
 
 ## Available for freelance
 
-Open to projects — landing pages for local businesses, custom web apps, and data analysis tools.
-
-Live demos:
-
-- <a href="https://la-tusovka.pages.dev">la-tusovka.pages.dev</a> — cinematic landing for a Latin events producer in Krasnoyarsk
-- <a href="https://cafe-krepkiy.vercel.app">cafe-krepkiy.vercel.app</a> — reusable template for cafés and local businesses
+Open to projects — landing pages for local businesses, custom web apps, and data analysis tools. Reach out via email or Telegram (above) to see live demos and discuss.
 
 ## My Skills Include
 
