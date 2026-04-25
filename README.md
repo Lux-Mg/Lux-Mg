@@ -1,14 +1,14 @@
-<h1 align="center"><b>Hi, I'm Luis Mendoza </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Luis Mendoza</b> 🐧</h1>
 
 ### About me
 
 Final year Software Engineering student at Siberian Federal University. I build web applications, work on NLP and data analysis, and freelance on landing pages for local businesses.
 
-Originally from Peru, living in Russia for the past few years — most of what I build ends up being bilingual (Spanish, Russian, sometimes English).
+Originally from Peru 🇵🇪, living in Russia 🇷🇺 for the past few years — most of what I build ends up being bilingual (Spanish, Russian, sometimes English).
 
 Currently working on **[LenguaTrends](https://github.com/Lux-Mg/LenguaTrends)** — a multilingual comment trend analysis system using NLP (my thesis). Recently shipped my first paid freelance project to production, and now I'm actively looking for more.
 
-Outside tech: videogames, music, and Latin dance.
+Outside tech: 🎮 videogames, 🎵 music, and 💃 Latin dance.
 
 ---
 
@@ -16,16 +16,16 @@ Outside tech: videogames, music, and Latin dance.
 
 Open to projects. I specialize in:
 
-- **Landing pages** for local businesses (cafés, events, restaurants, small services)
-- **Web apps** with Next.js / React / TypeScript
-- **Data analysis tools** with Python / FastAPI
+- **Landing pages** ☕ for local businesses (cafés, events, restaurants, small services)
+- **Custom web apps** for small companies and indie projects
+- **Data analysis tools** for research or business intelligence
 
 Live template preview: [cafe-krepkiy.vercel.app](https://cafe-krepkiy.vercel.app)
 
 **Reach me:**
 
-- Email: [luismendoza20g@gmail.com](mailto:luismendoza20g@gmail.com)
-- Telegram: [@Luismzg](https://t.me/Luismzg)
+- ✉️ Email: [luismendoza20g@gmail.com](mailto:luismendoza20g@gmail.com)
+- ✈️ Telegram: [@Luismzg](https://t.me/Luismzg)
 
 ---
 
