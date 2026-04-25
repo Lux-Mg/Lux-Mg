@@ -8,7 +8,7 @@ This is me, Luis Mendoza, a final year Software Engineering student at Siberian 
 
 - 🔭 I'm currently working on **[LenguaTrends](https://github.com/Lux-Mg/LenguaTrends)** — a multilingual comment trend analysis system using NLP (my thesis)
 - 🌱 I'm currently exploring ...
-  - AI-assisted development workflows
+  - Real-world product development and clean architecture
   - Cloudflare edge & performance optimization
   - Motion design and frontend animation
 - Outside tech, 🎮 I love playing videogames and 🎵 listening to music
