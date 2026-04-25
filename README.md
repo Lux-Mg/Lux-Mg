@@ -11,13 +11,8 @@ This is me, Luis Mendoza, a final year Software Engineering student at Siberian 
   - AI-assisted development workflows
   - Cloudflare edge & performance optimization
   - Motion design and frontend animation
-- Recently shipped my first paid freelance project to production — open for new freelance work
 - Outside tech, 🎮 I love playing videogames and 🎵 listening to music
 - 📫 Reach out to me at: <a href="mailto:luismendoza20g@gmail.com">luismendoza20g@gmail.com</a> · Telegram: <a href="https://t.me/Luismzg">@Luismzg</a>
-
-## Available for freelance
-
-Open to projects — landing pages for local businesses, custom web apps, and data analysis tools. Reach out via email or Telegram (above) to see live demos and discuss.
 
 ## My Skills Include
 
