@@ -12,14 +12,17 @@ This is me, Luis Mendoza, a final year Software Engineering student at Siberian 
   - Cloudflare edge & performance optimization
   - Motion design and frontend animation
 - Recently shipped my first paid freelance project to production — open for new freelance work
-- Outside tech, 🎮 I love playing videogames, 🎵 listening to music, and Latin dance
+- Outside tech, 🎮 I love playing videogames and 🎵 listening to music
 - 📫 Reach out to me at: <a href="mailto:luismendoza20g@gmail.com">luismendoza20g@gmail.com</a> · Telegram: <a href="https://t.me/Luismzg">@Luismzg</a>
 
 ## Available for freelance
 
 Open to projects — landing pages for local businesses, custom web apps, and data analysis tools.
 
-Live template preview: <a href="https://cafe-krepkiy.vercel.app">cafe-krepkiy.vercel.app</a>
+Live demos:
+
+- <a href="https://la-tusovka.pages.dev">la-tusovka.pages.dev</a> — cinematic landing for a Latin events producer in Krasnoyarsk
+- <a href="https://cafe-krepkiy.vercel.app">cafe-krepkiy.vercel.app</a> — reusable template for cafés and local businesses
 
 ## My Skills Include
 
