@@ -1,11 +1,5 @@
 <h1 align="center"><b>Hi, I'm Luis Mendoza </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-Software engineering student at SibFU · Full-stack developer · Based in Krasnoyarsk 🇷🇺
-</p>
-
----
-
 ### About me
 
 Final year Software Engineering student at Siberian Federal University. I build web applications, work on NLP and data analysis, and freelance on landing pages for local businesses.
