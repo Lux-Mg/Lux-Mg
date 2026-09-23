@@ -1,38 +1,44 @@
-# Luis Mendoza
+<h1 align="center"><b>Hi, I'm Luis Mendoza </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-**Software Engineering graduate · MSc student · Python / AI / NLP / backend engineering**
+<img align="right" width="300px" alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTV6cmhsYmcxcGVuemo1OXlmMDRiem41a2w1eTFhZmhibWdncHBlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" />
 
-I am a Software Engineering graduate from Siberian Federal University (2026) and a first-year Master's student in Software Engineering and Cybernetics. I build multilingual NLP systems, local-LLM applications, APIs, and reproducible ML experiments with Python, FastAPI, PostgreSQL, and Docker.
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am interested in junior roles in **AI/ML, NLP/LLM, Python backend, data engineering, MLOps/TestOps, and technical automation**.
+This is me, Luis Mendoza — a Software Engineering graduate from Siberian Federal University (2026) and currently a first-year MSc student in Software Engineering and Cybernetics. I'm focused on AI/ML, with Python and software engineering as the foundation for what I build. Originally from Peru, currently based in Krasnoyarsk.
 
-## Featured projects
+- 🔭 I build AI/ML systems, LLM applications, and Python services
+- 🌱 I'm currently exploring reliable AI evaluation, LLM agents, and reproducible ML workflows
+- Outside tech, 🎮 I love playing videogames and 🎵 listening to music
+- 📫 Reach out to me at: <a href="mailto:luismendoza20g@gmail.com">luismendoza20g@gmail.com</a> · Telegram: <a href="https://t.me/Luismzg">@Luismzg</a>
 
-| Project | What it demonstrates |
-|---|---|
-| **[LenguaTrends](https://github.com/Lux-Mg/LenguaTrends)** | Undergraduate thesis: a multilingual NLP platform over a frozen corpus of **19,155 YouTube comments** about 16 films in English, Spanish, and Russian. FastAPI, PostgreSQL, XLM-RoBERTa, BERTopic, and React. Includes manual and external sentiment-model evaluation workflows. |
-| **[RAG over LenguaTrends](https://github.com/Lux-Mg/rag-lenguatrends)** | Multilingual RAG over 17,130 comments using BGE-M3, PostgreSQL/pgvector, FastAPI, Ollama, and Qwen 3 8B. The tracked evaluation reports **recall@5 of 85.7%** and recall@30 of 100% on seven queries with ground truth; limitations and LLM-as-judge bias are documented. |
-| **[Multilingual Comment Classifier](https://github.com/Lux-Mg/multilingual-comment-classifier)** | Local Qwen 2.5 7B inference behind FastAPI. A 100-comment benchmark compares its outputs with an XLM-RoBERTa-based pipeline, including an A/B test that measures prompt-language effects. |
-| **[Agent over LenguaTrends RAG](https://github.com/Lux-Mg/agent-langgraph)** | LangGraph agent with intent routing, multi-turn memory, RAG calls, and retrieval reflection/retry. Includes CLI, Streamlit UI, and a four-turn smoke-test scenario. |
+## My Skills Include
 
-Additional engineering evidence:
+<h4>Languages</h4>
+<span>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</span>
 
-- **[MLOps Lab](https://github.com/Lux-Mg/mlops-lab3)** — educational DVC pipeline for Fashion-MNIST experiments and model comparison.
-- **[SystemCar](https://github.com/Lux-Mg/SystemCar)** — academic team project combining YOLO/OpenCV/PyQt6 detection with local persistence and a separate PHP/MySQL admin panel.
+<h4>AI / Data</h4>
+<span>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+</span>
 
-## Technical focus
+<h4>Engineering</h4>
+<span>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</span>
 
-- **Python and APIs:** Python, FastAPI, Pydantic, SQLAlchemy, REST APIs
-- **AI and NLP:** PyTorch, Hugging Face Transformers, XLM-RoBERTa, BERTopic, embeddings, RAG, Ollama, Qwen, LangGraph
-- **Data and delivery:** PostgreSQL, SQL, pgvector, pandas, Docker Compose, DVC, Git, Linux, Bash
-- **Supporting web experience:** React and JavaScript
-
-## Background
-
-Before focusing full-time on software and AI roles, I provided remote first-line technical support at FROPESA (December 2025–May 2026), handling common workstation, connectivity, peripheral, and internal-system issues. This was a support role, not commercial software development.
-
-Languages: Spanish (native), English (B2), Russian (B2).
-
-## Contact
-
-[GitHub](https://github.com/Lux-Mg) · [Telegram](https://t.me/Luismzg)
+<h4>Web</h4>
+<span>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+</span>
