@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-This is me, Luis Mendoza — a Software Engineering graduate from Siberian Federal University (2026) and currently a first-year MSc student in Software Engineering and Cybernetics. I'm focused on AI/ML, with Python and software engineering as the foundation for what I build. Originally from Peru, currently based in Krasnoyarsk.
+This is me, Luis Mendoza — a Software Engineering graduate from Siberian Federal University (2026) and currently a first-year MSc student in Software Engineering and Cybernetics. I'm focused on AI/ML, with Python and software engineering as the foundation for what I build.
 
 - 🔭 I build AI/ML systems, LLM applications, and Python services
 - 🌱 I'm currently exploring reliable AI evaluation, LLM agents, and reproducible ML workflows
