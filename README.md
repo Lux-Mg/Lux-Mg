@@ -8,6 +8,7 @@ This is me, Luis Mendoza — a Software Engineering graduate from Siberian Feder
 
 - 🔭 I build AI/ML systems, LLM applications, and Python services
 - 🌱 I'm currently exploring reliable AI evaluation, LLM agents, and reproducible ML workflows
+- 🌐 On the side, I also build websites — see [web-portfolio](https://github.com/Lux-Mg/web-portfolio)
 - Outside tech, 🎮 I love playing videogames and 🎵 listening to music
 - 📫 Reach out to me at: <a href="mailto:luismendoza20g@gmail.com">luismendoza20g@gmail.com</a> · Telegram: <a href="https://t.me/Luismzg">@Luismzg</a>
 
