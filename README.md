@@ -6,7 +6,7 @@
 
 This is me, Luis Mendoza — a Software Engineering graduate from Siberian Federal University (2026) and currently a first-year MSc student in Software Engineering and Cybernetics. I'm focused on AI/ML, with Python and software engineering as the foundation for what I build.
 
-- 🔭 I build AI/ML systems, LLM applications, and Python services
+- 🔭 My projects so far: a multilingual NLP pipeline (bachelor's thesis), and a RAG demo and an agent built on top of it
 - 🌱 I'm currently exploring reliable AI evaluation, LLM agents, and reproducible ML workflows
 - Outside tech, 🎮 I love playing videogames and 🎵 listening to music
 - 📫 Reach out to me at: <a href="mailto:luismendoza20g@gmail.com">luismendoza20g@gmail.com</a> · Telegram: <a href="https://t.me/Luismzg">@Luismzg</a>
@@ -21,7 +21,6 @@ This is me, Luis Mendoza — a Software Engineering graduate from Siberian Feder
 
 <h4>AI / Data</h4>
 <span>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
